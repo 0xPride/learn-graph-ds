@@ -59,6 +59,6 @@ while (!q.empty()) {
 ```
 # Problems
 
-- [] [SPOJ: AKBAR](http://spoj.com/problems/AKBAR)
-- [] [SPOJ: NAKANJ](http://www.spoj.com/problems/NAKANJ)
-- [] [SPOJ: WATER](http://www.spoj.com/problems/WATER)
+- [ ] [SPOJ: AKBAR](http://spoj.com/problems/AKBAR)
+- [ ] [SPOJ: NAKANJ](http://www.spoj.com/problems/NAKANJ)
+- [ ] [SPOJ: WATER](http://www.spoj.com/problems/WATER)
